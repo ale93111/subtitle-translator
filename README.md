@@ -2,7 +2,7 @@
 
 This Python script demonstrates real-time translation of text captured from the screen using OCR (Optical Character Recognition) and DeepL API. The translated text is displayed on a Pygame window.
 
-[Watch the demo video]() to see how it works!
+[Watch the demo video](https://github.com/ale93111/subtitle-translator/blob/main/asset/example.mp4) to see how it works!
 
 ### Features:
 
