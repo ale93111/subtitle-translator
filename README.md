@@ -4,7 +4,7 @@ This Python script demonstrates real-time translation of text captured from the 
 
 ![alt tag](https://github.com/ale93111/subtitle-translator/blob/main/asset/example.gif)
 
->>>>>>> 80ee70d4640dcb122c91bf21d6f3f5552e4c88ff
+
 ### Features:
 
 - Utilizes the EasyOCR library for text recognition from images.
