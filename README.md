@@ -2,10 +2,11 @@
 
 This Python script demonstrates real-time translation of text captured from the screen using OCR (Optical Character Recognition) and DeepL API. The translated text is displayed on a Pygame window.
 
+<!-- <div class="img">
 <video muted autoplay="autoplay" loop="loop" width="100%">
     <source src="asset/example.mp4" type="video/mp4">
 </video>
-    
+    </div> -->
 ### Features:
 
 - Utilizes the EasyOCR library for text recognition from images.
